@@ -2,7 +2,7 @@
 
 Projeto acadêmico desenvolvido para a disciplina de Banco de Dados.
 
-Este projeto implementa um sistema de gestão para imobiliárias utilizando Linguagem C integrada a um banco de dados MySQL. Ele garante a persistência de dados e a execução de regras de negócio via terminal, além de modelar consultas SQL complexas.
+Este projeto implementa um sistema de gestão para imobiliárias utilizando Linguagem C integrada a um banco de dados MySQL. Ele garante a persistência de dados e a execução de regras de negócio via terminal, além de modelar consultas que atestam conhecimento sintático e lógico da linguagem SQL.
 
 ## Funcionalidades
 
